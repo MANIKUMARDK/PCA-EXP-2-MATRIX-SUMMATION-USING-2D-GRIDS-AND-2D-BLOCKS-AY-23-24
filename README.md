@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>ENTER YOUR NAME: Manikumar d.k </h3>
-<h3>ENTER YOUR REGISTER NO:212223230184</h3>
+<h3>ENTER YOUR REGISTER NO:212223230121</h3>
 <h3>EX. NO:2</h3>
 <h3>DATE:12/09/25</h3>
 
